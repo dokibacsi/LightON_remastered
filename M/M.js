@@ -1,5 +1,7 @@
 class Model {
-  constructor() {}
+  constructor() {
+    
+  }
 }
 
 export default Model;
